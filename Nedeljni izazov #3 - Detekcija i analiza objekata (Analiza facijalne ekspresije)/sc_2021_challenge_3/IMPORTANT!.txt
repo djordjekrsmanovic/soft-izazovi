@@ -1,0 +1,1 @@
+Potrebno je da se preuzme shape_predictor_68_face_landmarks za prepoznavanje lica i otkrivanje karakteristicnih 68 tacaka na licu
